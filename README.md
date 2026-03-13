@@ -52,3 +52,8 @@ hydro_tipping_swi/
     ├── repro_bundle_salinity_maps.npz
     ├── df_models_with_salt_budget.csv
     └── summary_with_areas_km2.csv
+
+
+## Additional information
+1. Typical install time: about 5–15 minutes on a standard desktop/laptop, depending on package installation and internet speed.
+2. Expected demo runtime: about 1–5 minutes for the bundled figure-reproduction examples on a standard desktop/laptop.
